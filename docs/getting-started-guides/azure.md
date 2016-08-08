@@ -13,7 +13,7 @@ assignees:
 
 1. An Azure subscription. If you don't already have one, you may create one on [azure.microsoft.com](https://azure.microsoft.com).
 2. An account with Owner access to the subscription.
-3. Both `docker` and `jq` need to be installed and available on `$PATH`.
+3. Both `docker` and `jq version 1.4 or greater` need to be installed and available on `$PATH`.
 
 
 ## Cluster operations
